@@ -161,8 +161,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "b0c481ef2f239416",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,12 +189,48 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "dae9517754cfffd9",
+  "active": "cfe3e718d8a2fa93",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "OrbitOS-vault/10_Daily/2026-03-10.md",
+    "OrbitOS-vault/00_Inbox/Web-QA-Automation.md",
+    "OrbitOS-vault/99_System/Templates/Wiki_Template.md",
+    "OrbitOS-vault/99_System/Templates/Project_Template.md",
+    "OrbitOS-vault/99_System/Templates/Inbox_Template.md",
+    "OrbitOS-vault/99_System/Templates/Daily_Note.md",
+    "OrbitOS-vault/99_System/Templates/Content_Template.md",
+    "OrbitOS-vault/99_System/Prompts/SE_Interview.md",
+    "OrbitOS-vault/99_System/Prompts/SE_CodeBase.md",
+    "OrbitOS-vault/99_System/Prompts/SE_Architect.md",
+    "OrbitOS-vault/99_System/Prompts/Health_Sympton.md",
+    "OrbitOS-vault/99_System/Prompts/Health_Nutrition.md",
+    "OrbitOS-vault/99_System/Prompts/Health_Medication.md",
+    "OrbitOS-vault/99_System/Prompts/Health_General.md",
+    "OrbitOS-vault/99_System/Prompts/General_SecondOrderThinking.md",
+    "OrbitOS-vault/99_System/Prompts/General_Latticework.md",
+    "OrbitOS-vault/99_System/Prompts/General_FirstPrinciples.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Tax.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_StockMarket.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Portfolio.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Debt.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Crypto.md",
+    "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
+    "OrbitOS-vault/99_System/Bases/Projects.base",
+    "OrbitOS-vault/99_System/Bases/Knowledge.base",
+    "OrbitOS-vault/99_System/Templates",
+    "OrbitOS-vault/99_System/Prompts",
+    "OrbitOS-vault/99_System/Bases",
+    "OrbitOS-vault/50_Resources/Screenshot.png",
+    "OrbitOS-vault/GEMINI.md",
+    "OrbitOS-vault/CLAUDE.md",
+    "OrbitOS-vault/AGENTS.md",
+    "OrbitOS-vault/99_System",
+    "OrbitOS-vault/90_Plans",
+    "OrbitOS-vault/50_Resources",
+    "OrbitOS-vault/40_Wiki",
     "test.md"
   ]
 }
