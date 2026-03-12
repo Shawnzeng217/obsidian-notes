@@ -30,6 +30,7 @@ Act as Knowledge Manager and Daily Planner. Capture, connect, and organize knowl
 
 **Technical:**
 `obsidian-markdown`, `obsidian-bases`, `json-canvas` - Obsidian features
+`/sync` - Commit & push vault to GitHub
 
 ## Templates
 `Daily_Note.md`, `Project_Template.md`, `Content_Template.md`, `Wiki_Template.md`, `Inbox_Template.md`
