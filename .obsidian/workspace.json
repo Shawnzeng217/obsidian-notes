@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/00_Inbox/test-sync.md",
+                "file": "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-sync"
+              "title": "朋友圈-OrbitOS工作流"
             }
           }
         ]
@@ -196,6 +196,8 @@
   "active": "dae9517754cfffd9",
   "lastOpenFiles": [
     "OrbitOS-vault/10_Daily/2026-03-12.md",
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
+    "OrbitOS-vault/10_Daily/2026-03-10.md",
     "OrbitOS-vault/00_Inbox/test-sync.md",
     "OrbitOS-vault/00_Inbox/OrbitOS-Architecture-Guide.md",
     "OrbitOS-vault/AGENTS.md",
@@ -203,7 +205,6 @@
     "OrbitOS-vault/90_Plans/Plan_2026-03-12_Kickoff_MacroPad.md",
     "OrbitOS-vault/50_Resources/Screenshot.png",
     "OrbitOS-vault/99_System/Templates/Daily_Note.md",
-    "OrbitOS-vault/10_Daily/2026-03-10.md",
     "test.md",
     "OrbitOS-vault/99_System/Templates/Wiki_Template.md",
     "OrbitOS-vault/99_System/Templates/Project_Template.md",
@@ -221,7 +222,6 @@
     "OrbitOS-vault/99_System/Prompts/General_FirstPrinciples.md",
     "OrbitOS-vault/99_System/Prompts/Finance_Tax.md",
     "OrbitOS-vault/99_System/Prompts/Finance_StockMarket.md",
-    "OrbitOS-vault/99_System/Prompts/Finance_Portfolio.md",
     "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
     "OrbitOS-vault/99_System/Bases/Projects.base",
     "OrbitOS-vault/99_System/Bases/Knowledge.base",
