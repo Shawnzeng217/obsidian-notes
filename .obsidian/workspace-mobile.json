@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "7b7466c79d522aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "06cb6dc9e25a6435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0284f683cfa5a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OrbitOS-vault/10_Daily/2026-03-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-13"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55678de1bd2da578",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8636cc5a51d7e8d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "229ec35968a9c0bb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "387b3abb4707796c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "daed4da88142e70c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "a9d3c68f26dcb8ca",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5f6ea1c6c54a2901",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7cdfa3ada8bf5fab",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "feedbf4443407ecf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "bc501a9d07a19c5b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f0284f683cfa5a66",
+  "lastOpenFiles": [
+    "OrbitOS-vault/10_Daily/2026-03-10.md",
+    "OrbitOS-vault/90_Plans/Plan_2026-03-12_Kickoff_MacroPad.md",
+    "OrbitOS-vault/10_Daily/2026-03-12.md",
+    "OrbitOS-vault/00_Inbox/iOS-obsidian-git-setup.md",
+    "OrbitOS-vault/00_Inbox/Web-QA-Automation.md",
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
+    "OrbitOS-vault/50_Resources/Gemini_Generated_Image_lw5fpwlw5fpwlw5f.png",
+    "OrbitOS-vault/50_Resources/Screenshot.png",
+    "/OrbitOS-vault/50_Resources/Gemini_Generated_Image_lw5fpwlw5fpwlw5f.png",
+    "/OrbitOS-vault/50_Resources",
+    "OrbitOS-vault/00_Inbox/闪念-20260313.md",
+    "OrbitOS-vault/10_Daily/2026-03-13.md",
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html.bak-20260313000647",
+    "/OrbitOS-vault/40_Wiki/卢曼卡片笔记法-Zettelkasten.md",
+    "OrbitOS-vault/40_Wiki/卢曼卡片笔记法-Zettelkasten.md",
+    "/OrbitOS-vault/40_Wiki",
+    "/OrbitOS-vault/00_Inbox/闪念-20260313.md",
+    "/OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html.bak-20260313000647",
+    "/OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html",
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html",
+    "/OrbitOS-vault/00_Inbox",
+    "/OrbitOS-vault",
+    "OrbitOS-vault/99_System/Prompts/General_Latticework.md",
+    "OrbitOS-vault/99_System/Prompts/SE_Interview.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_StockMarket.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Tax.md",
+    "OrbitOS-vault/99_System/Prompts/Health_Medication.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Portfolio.md",
+    "OrbitOS-vault/99_System/Prompts/SE_CodeBase.md",
+    "OrbitOS-vault/99_System/Prompts/Health_Nutrition.md",
+    "OrbitOS-vault/99_System/Prompts/General_SecondOrderThinking.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Crypto.md",
+    "OrbitOS-vault/99_System/Prompts/Finance_Debt.md",
+    "OrbitOS-vault/99_System/Prompts/Health_General.md",
+    "OrbitOS-vault/99_System/Prompts/SE_Architect.md",
+    "OrbitOS-vault/99_System/Prompts/General_FirstPrinciples.md",
+    "OrbitOS-vault/99_System/Prompts/Health_Sympton.md",
+    "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
+    "OrbitOS-vault/99_System/Bases/Projects.base"
+  ]
+}
