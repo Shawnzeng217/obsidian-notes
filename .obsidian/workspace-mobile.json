@@ -181,9 +181,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "4e6561b0a864226b",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
