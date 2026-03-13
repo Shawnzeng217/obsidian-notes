@@ -193,8 +193,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "dae9517754cfffd9",
+  "active": "cfe3e718d8a2fa93",
   "lastOpenFiles": [
+    "OrbitOS-vault/10_Daily/2026-03-13.md",
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html.bak-20260313000647",
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html",
     "OrbitOS-vault/10_Daily/2026-03-12.md",
     "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
     "OrbitOS-vault/10_Daily/2026-03-10.md",
@@ -221,7 +224,6 @@
     "OrbitOS-vault/99_System/Prompts/General_Latticework.md",
     "OrbitOS-vault/99_System/Prompts/General_FirstPrinciples.md",
     "OrbitOS-vault/99_System/Prompts/Finance_Tax.md",
-    "OrbitOS-vault/99_System/Prompts/Finance_StockMarket.md",
     "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
     "OrbitOS-vault/99_System/Bases/Projects.base",
     "OrbitOS-vault/99_System/Bases/Knowledge.base",
@@ -229,8 +231,6 @@
     "OrbitOS-vault/99_System/Prompts",
     "OrbitOS-vault/99_System/Bases",
     "OrbitOS-vault/99_System",
-    "OrbitOS-vault/90_Plans",
-    "OrbitOS-vault/50_Resources",
-    "OrbitOS-vault/40_Wiki"
+    "OrbitOS-vault/90_Plans"
   ]
 }
