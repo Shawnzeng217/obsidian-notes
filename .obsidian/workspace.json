@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
+                "file": "OrbitOS-vault/20_Project/英文期刊学习工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "朋友圈-OrbitOS工作流"
+              "title": "英文期刊学习工具"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OrbitOS-vault/20_Project/英文期刊学习工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "英文期刊学习工具 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OrbitOS-vault/20_Project/英文期刊学习工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "英文期刊学习工具 的出链列表"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OrbitOS-vault/20_Project/英文期刊学习工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "英文期刊学习工具 的大纲"
             }
           },
           {
@@ -171,14 +174,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0e101bb371f1687b",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 635.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +202,15 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "cfe3e718d8a2fa93",
+  "active": "0e101bb371f1687b",
   "lastOpenFiles": [
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
+    "OrbitOS-vault/20_Project/英文期刊学习工具.md",
+    "未命名.md",
     "OrbitOS-vault/50_Resources/Gemini_Generated_Image_lw5fpwlw5fpwlw5f.png",
     "OrbitOS-vault/00_Inbox/闪念-20260313.md",
     "OrbitOS-vault/40_Wiki/卢曼卡片笔记法-Zettelkasten.md",
@@ -203,7 +219,6 @@
     "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html.bak-20260313000647",
     "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.html",
     "OrbitOS-vault/10_Daily/2026-03-12.md",
-    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
     "OrbitOS-vault/10_Daily/2026-03-10.md",
     "OrbitOS-vault/00_Inbox/test-sync.md",
     "OrbitOS-vault/00_Inbox/OrbitOS-Architecture-Guide.md",
@@ -223,7 +238,6 @@
     "OrbitOS-vault/99_System/Prompts/Health_Sympton.md",
     "OrbitOS-vault/99_System/Prompts/Health_Nutrition.md",
     "OrbitOS-vault/99_System/Prompts/Health_Medication.md",
-    "OrbitOS-vault/99_System/Prompts/Health_General.md",
     "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
     "OrbitOS-vault/99_System/Bases/Projects.base",
     "OrbitOS-vault/99_System/Bases/Knowledge.base",
