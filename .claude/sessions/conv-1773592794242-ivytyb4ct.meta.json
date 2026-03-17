@@ -3,17 +3,17 @@
   "title": "Create English journal translation assistant",
   "titleGenerationStatus": "success",
   "createdAt": 1773592794253,
-  "updatedAt": 1773592898874,
-  "lastResponseAt": 1773592898874,
+  "updatedAt": 1773676572530,
+  "lastResponseAt": 1773676572530,
   "sessionId": "3b8cdf9a-1c26-4711-a1fc-b10a2d4be80b",
   "sdkSessionId": "3b8cdf9a-1c26-4711-a1fc-b10a2d4be80b",
   "usage": {
     "model": "haiku",
-    "inputTokens": 5,
-    "cacheCreationInputTokens": 4370,
-    "cacheReadInputTokens": 39870,
+    "inputTokens": 4,
+    "cacheCreationInputTokens": 6501,
+    "cacheReadInputTokens": 44913,
     "contextWindow": 200000,
-    "contextTokens": 44245,
-    "percentage": 22
+    "contextTokens": 51418,
+    "percentage": 26
   }
 }
