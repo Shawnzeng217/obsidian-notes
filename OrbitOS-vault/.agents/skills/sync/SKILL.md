@@ -53,7 +53,15 @@ And stop here.
    git -C /Users/shawn/Documents/obsidian-notes commit -m "vault backup: 2026-03-12 14:30:00"
    ```
 
-## Step 4: Push
+## Step 4: Pull then Push
+
+Always pull before pushing to avoid conflicts with mobile:
+
+```
+git -C /Users/shawn/Documents/obsidian-notes pull --rebase origin main
+```
+
+Then push:
 
 ```
 git -C /Users/shawn/Documents/obsidian-notes push origin main
