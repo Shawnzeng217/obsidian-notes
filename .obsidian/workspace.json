@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
+                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenClaw-47-Zombies-Analysis"
+              "title": "X-Search-WeChat-Integration"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
+                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "OpenClaw-47-Zombies-Analysis 的反向链接列表"
+              "title": "X-Search-WeChat-Integration 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
+                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "OpenClaw-47-Zombies-Analysis 的出链列表"
+              "title": "X-Search-WeChat-Integration 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
+                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "OpenClaw-47-Zombies-Analysis 的大纲"
+              "title": "X-Search-WeChat-Integration 的大纲"
             }
           },
           {
@@ -208,9 +208,10 @@
   },
   "active": "dae9517754cfffd9",
   "lastOpenFiles": [
-    "OrbitOS-vault/WeChat/openclaw-47-zombies-2026-03-22.jpg",
-    "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
     "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
+    "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
+    "OrbitOS-vault/AGENTS.md",
+    "OrbitOS-vault/WeChat/openclaw-47-zombies-2026-03-22.jpg",
     "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
     "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
     "OrbitOS-vault/20_Project/英文期刊学习工具.md",
@@ -230,7 +231,6 @@
     "OrbitOS-vault/10_Daily/2026-03-10.md",
     "OrbitOS-vault/00_Inbox/test-sync.md",
     "OrbitOS-vault/00_Inbox/OrbitOS-Architecture-Guide.md",
-    "OrbitOS-vault/AGENTS.md",
     "OrbitOS-vault/00_Inbox/Web-QA-Automation.md",
     "OrbitOS-vault/90_Plans/Plan_2026-03-12_Kickoff_MacroPad.md",
     "OrbitOS-vault/50_Resources/Screenshot.png",
