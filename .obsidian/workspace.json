@@ -11,12 +11,14 @@
             "id": "dae9517754cfffd9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg"
+                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "wechat-xsearch-2026-03-22"
+              "icon": "lucide-file",
+              "title": "OpenClaw-47-Zombies-Analysis"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
+                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "wechat-xsearch-2026-03-22 的反向链接列表"
+              "title": "OpenClaw-47-Zombies-Analysis 的反向链接列表"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
+                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "wechat-xsearch-2026-03-22 的出链列表"
+              "title": "OpenClaw-47-Zombies-Analysis 的出链列表"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
+                "file": "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "wechat-xsearch-2026-03-22 的大纲"
+              "title": "OpenClaw-47-Zombies-Analysis 的大纲"
             }
           },
           {
@@ -204,12 +206,12 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "cfe3e718d8a2fa93",
+  "active": "dae9517754cfffd9",
   "lastOpenFiles": [
     "OrbitOS-vault/WeChat/openclaw-47-zombies-2026-03-22.jpg",
-    "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
     "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
     "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
+    "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
     "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
     "OrbitOS-vault/20_Project/英文期刊学习工具.md",
     "OrbitOS-vault/WeChat",
