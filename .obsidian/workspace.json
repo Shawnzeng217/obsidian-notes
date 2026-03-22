@@ -11,14 +11,12 @@
             "id": "dae9517754cfffd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
-                "mode": "source",
-                "source": false
+                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg"
               },
-              "icon": "lucide-file",
-              "title": "朋友圈-OrbitOS工作流"
+              "icon": "lucide-image",
+              "title": "wechat-xsearch-2026-03-22"
             }
           }
         ]
@@ -94,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "wechat-xsearch-2026-03-22 的反向链接列表"
             }
           },
           {
@@ -112,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "wechat-xsearch-2026-03-22 的出链列表"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OrbitOS-vault/20_Project/英文期刊学习工具.md",
+                "file": "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "英文期刊学习工具 的大纲"
+              "title": "wechat-xsearch-2026-03-22 的大纲"
             }
           },
           {
@@ -204,13 +204,18 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "0e101bb371f1687b",
+  "active": "cfe3e718d8a2fa93",
   "lastOpenFiles": [
+    "OrbitOS-vault/WeChat/openclaw-47-zombies-2026-03-22.jpg",
+    "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
+    "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
+    "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
+    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
+    "OrbitOS-vault/20_Project/英文期刊学习工具.md",
+    "OrbitOS-vault/WeChat",
     "OrbitOS-vault/00_Inbox/test2.md",
     "OrbitOS-vault/00_Inbox/购买清单.md",
     "OrbitOS-vault/20_Project/微信小程序+AI学习项目.md",
-    "OrbitOS-vault/00_Inbox/朋友圈-OrbitOS工作流.md",
-    "OrbitOS-vault/20_Project/英文期刊学习工具.md",
     "未命名.md",
     "OrbitOS-vault/50_Resources/Gemini_Generated_Image_lw5fpwlw5fpwlw5f.png",
     "OrbitOS-vault/00_Inbox/闪念-20260313.md",
@@ -233,16 +238,12 @@
     "OrbitOS-vault/99_System/Templates/Project_Template.md",
     "OrbitOS-vault/99_System/Templates/Inbox_Template.md",
     "OrbitOS-vault/99_System/Templates/Content_Template.md",
-    "OrbitOS-vault/99_System/Prompts/SE_Interview.md",
-    "OrbitOS-vault/99_System/Prompts/SE_CodeBase.md",
-    "OrbitOS-vault/99_System/Prompts/SE_Architect.md",
     "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
     "OrbitOS-vault/99_System/Bases/Projects.base",
     "OrbitOS-vault/99_System/Bases/Knowledge.base",
     "OrbitOS-vault/99_System/Templates",
     "OrbitOS-vault/99_System/Prompts",
     "OrbitOS-vault/99_System/Bases",
-    "OrbitOS-vault/99_System",
-    "OrbitOS-vault/90_Plans"
+    "OrbitOS-vault/99_System"
   ]
 }
