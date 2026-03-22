@@ -44,3 +44,5 @@ priority: high
 
 ## Notes
 
+
+- [ ] AI应用切换国内模型 (🟡 重要不紧急)
