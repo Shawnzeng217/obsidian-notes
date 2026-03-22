@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
+                "file": "OrbitOS-vault/90_Plans/2026-Todo-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "X-Search-WeChat-Integration"
+              "title": "2026-Todo-List"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
+                "file": "OrbitOS-vault/90_Plans/2026-Todo-List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "X-Search-WeChat-Integration 的反向链接列表"
+              "title": "2026-Todo-List 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
+                "file": "OrbitOS-vault/90_Plans/2026-Todo-List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "X-Search-WeChat-Integration 的出链列表"
+              "title": "2026-Todo-List 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
+                "file": "OrbitOS-vault/90_Plans/2026-Todo-List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "X-Search-WeChat-Integration 的大纲"
+              "title": "2026-Todo-List 的大纲"
             }
           },
           {
@@ -208,9 +208,9 @@
   },
   "active": "cfe3e718d8a2fa93",
   "lastOpenFiles": [
+    "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
     "OrbitOS-vault/90_Plans/2026-Todo-List.md",
     "OrbitOS-vault/WeChat/wechat-xsearch-2026-03-22.jpg",
-    "OrbitOS-vault/WeChat/X-Search-WeChat-Integration.md",
     "OrbitOS-vault/AGENTS.md",
     "OrbitOS-vault/WeChat/openclaw-47-zombies-2026-03-22.jpg",
     "OrbitOS-vault/WeChat/OpenClaw-47-Zombies-Analysis.md",
