@@ -41,4 +41,4 @@ tags: [wechat, test]
 
 ---
 
-*Powered by OrbitOS × Tommytale*![[BABE YODA.jpeg]]
+*Powered by OrbitOS × Tommytale*![[cover.png.jpeg]]
