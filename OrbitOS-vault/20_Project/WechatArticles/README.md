@@ -10,22 +10,34 @@ tags: [wechat, content]
 
 **Objective:** Store and publish WeChat Official Account articles from this vault.
 
-## Workflow
+## Folder Structure
 
-1. Create a new article using the `WechatArticle_Template`
-2. Save as `YYYY-MM-DD-slug.md` in this folder
-3. Write full content in the file
-4. Post to WeChat draft box via skill:
+Each article lives in its own folder:
 
 ```
-/baoyu-post-to-wechat <path-to-file>
+YYYY-MM-DD-slug/
+├── index.md      ← article body (use WechatArticle_Template)
+├── imgs/         ← images (cover.png = cover image for WeChat)
+└── refs/         ← references, quotes, source material
+```
+
+## Workflow
+
+1. Create folder: `YYYY-MM-DD-slug/`
+2. Create `index.md` from `WechatArticle_Template`
+3. Add cover image as `imgs/cover.png`
+4. Write content, place any reference material in `refs/`
+5. Post to WeChat draft box:
+
+```
+/baoyu-post-to-wechat <path>/index.md
 ```
 
 ## Articles
 
-| File | Title | Status | Published |
-|------|-------|--------|-----------|
-| — | — | — | — |
+| Folder | Title | Status | Published |
+|--------|-------|--------|-----------|
+| 2026-03-26-hello-tommytale | 你好，Tommytale | draft | — |
 
 ## Related
 

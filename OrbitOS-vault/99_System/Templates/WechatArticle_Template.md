@@ -1,6 +1,6 @@
 ---
 title: Article Title
-author: Your Name
+author: Tommytale
 description: One-sentence summary (shown in WeChat preview, max 120 chars)
 type: content
 format: wechat-article
