@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/20_Project/WechatArticles/README.md",
+                "file": "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ],
@@ -259,7 +259,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "97160e8bf58c88a4",
+  "active": "06ea8023e85506eb",
   "lastOpenFiles": [
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs",
