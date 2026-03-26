@@ -248,6 +248,8 @@
   },
   "active": "97160e8bf58c88a4",
   "lastOpenFiles": [
+    "OrbitOS-vault/60_Wechat",
+    "OrbitOS-vault/微信公众号推文",
     "微信公众号推文",
     "OrbitOS-vault/GEMINI.md",
     "OrbitOS-vault/CLAUDE.md",
@@ -285,8 +287,6 @@
     "OrbitOS-vault/99_System/Bases/Projects.base",
     "OrbitOS-vault/99_System/Bases/Knowledge.base",
     "OrbitOS-vault/99_System/Templates",
-    "OrbitOS-vault/99_System/Prompts",
-    "OrbitOS-vault/99_System/Bases",
-    "OrbitOS-vault/99_System"
+    "OrbitOS-vault/99_System/Prompts"
   ]
 }
