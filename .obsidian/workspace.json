@@ -46,7 +46,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "终端：⠂ Claude Code"
+              "title": "终端：✳ Claude Code"
             }
           },
           {
@@ -240,6 +240,8 @@
   },
   "active": "97160e8bf58c88a4",
   "lastOpenFiles": [
+    "OrbitOS-vault/20_Project/WechatArticles/README.md",
+    "OrbitOS-vault/99_System/Templates/WechatArticle_Template.md",
     "OrbitOS-vault/CLAUDE.md",
     "OrbitOS-vault/GEMINI.md",
     "OrbitOS-vault/20_Project/WechatArticles/未命名.md",
@@ -274,9 +276,7 @@
     "OrbitOS-vault/10_Daily/2026-03-10.md",
     "OrbitOS-vault/00_Inbox/test-sync.md",
     "OrbitOS-vault/00_Inbox/OrbitOS-Architecture-Guide.md",
-    "OrbitOS-vault/00_Inbox/Web-QA-Automation.md",
     "OrbitOS-vault/50_Resources/Screenshot.png",
-    "OrbitOS-vault/99_System/Templates/Daily_Note.md",
     "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
     "OrbitOS-vault/99_System/Bases/Projects.base",
     "OrbitOS-vault/99_System/Bases/Knowledge.base"
