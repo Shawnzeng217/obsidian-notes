@@ -79,7 +79,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "终端：⠂ Claude Code"
+              "title": "终端：✳ Claude Code"
             }
           }
         ]
@@ -259,6 +259,9 @@
   },
   "active": "97160e8bf58c88a4",
   "lastOpenFiles": [
+    "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/02-flowchart-publish-workflow.md",
+    "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/01-scene-journey-begins.md",
+    "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/outline.md",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/index.html.bak-20260326230411",
@@ -278,7 +281,6 @@
     "OrbitOS-vault/20_Project/WechatArticles",
     "OrbitOS-vault/60_Wechat",
     "OrbitOS-vault/微信公众号推文",
-    "微信公众号推文",
     "OrbitOS-vault/AGENTS.md",
     "OrbitOS-vault/90_Plans/2026-Todo-List.md",
     "OrbitOS-vault/90_Plans/Plan_2026-03-12_Kickoff_MacroPad.md",
@@ -297,8 +299,6 @@
     "OrbitOS-vault/00_Inbox/闪念-20260313.md",
     "OrbitOS-vault/40_Wiki/卢曼卡片笔记法-Zettelkasten.md",
     "OrbitOS-vault/00_Inbox/iOS-obsidian-git-setup.md",
-    "OrbitOS-vault/10_Daily/2026-03-13.md",
-    "OrbitOS-vault/10_Daily/2026-03-12.md",
     "OrbitOS-vault/50_Resources/Screenshot.png"
   ]
 }
