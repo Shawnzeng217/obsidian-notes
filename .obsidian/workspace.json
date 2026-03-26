@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.png.jpeg"
+                "file": "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.jpeg"
               },
               "icon": "lucide-image",
-              "title": "cover.png"
+              "title": "cover"
             }
           }
         ],
@@ -259,7 +259,7 @@
   },
   "active": "97160e8bf58c88a4",
   "lastOpenFiles": [
-    "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.png.jpeg",
+    "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.jpeg",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/refs",

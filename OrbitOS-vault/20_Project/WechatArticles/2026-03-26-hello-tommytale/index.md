@@ -2,6 +2,7 @@
 title: 你好，Tommytale
 author: Tommytale
 description: 第一篇从 OrbitOS 知识库直接发布到公众号的测试文章。
+cover: imgs/cover.jpeg
 type: content
 format: wechat-article
 status: draft
@@ -41,4 +42,4 @@ tags: [wechat, test]
 
 ---
 
-*Powered by OrbitOS × Tommytale*![[cover.png.jpeg]]
+*Powered by OrbitOS × Tommytale*
