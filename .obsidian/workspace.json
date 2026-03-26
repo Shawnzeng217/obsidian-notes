@@ -25,12 +25,14 @@
             "id": "06ea8023e85506eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.jpeg"
+                "file": "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/02-flowchart-publish-workflow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "cover"
+              "icon": "lucide-file",
+              "title": "02-flowchart-publish-workflow"
             }
           }
         ],
@@ -259,9 +261,9 @@
   },
   "active": "97160e8bf58c88a4",
   "lastOpenFiles": [
-    "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/batch.json",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/02-flowchart-publish-workflow.md",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/01-scene-journey-begins.md",
+    "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/batch.json",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/outline.md",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations",
@@ -281,7 +283,6 @@
     "OrbitOS-vault/GEMINI.md",
     "OrbitOS-vault/20_Project/WechatArticles",
     "OrbitOS-vault/60_Wechat",
-    "OrbitOS-vault/微信公众号推文",
     "OrbitOS-vault/AGENTS.md",
     "OrbitOS-vault/90_Plans/2026-Todo-List.md",
     "OrbitOS-vault/90_Plans/Plan_2026-03-12_Kickoff_MacroPad.md",

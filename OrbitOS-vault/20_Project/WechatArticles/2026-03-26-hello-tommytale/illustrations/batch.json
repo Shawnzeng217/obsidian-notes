@@ -5,8 +5,8 @@
       "id": "scene-journey",
       "promptFiles": ["prompts/01-scene-journey-begins.md"],
       "image": "01-scene-journey-begins.png",
-      "provider": "google",
-      "model": "gemini-3.1-flash-image-preview",
+      "provider": "openai",
+      "model": "gpt-image-1",
       "ar": "3:2",
       "quality": "2k"
     },
@@ -14,8 +14,8 @@
       "id": "flowchart-workflow",
       "promptFiles": ["prompts/02-flowchart-publish-workflow.md"],
       "image": "02-flowchart-publish-workflow.png",
-      "provider": "google",
-      "model": "gemini-3.1-flash-image-preview",
+      "provider": "openai",
+      "model": "gpt-image-1",
       "ar": "3:2",
       "quality": "2k"
     }
