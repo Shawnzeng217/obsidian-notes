@@ -6,6 +6,7 @@
       {
         "id": "854fb229403f75af",
         "type": "tabs",
+        "dimension": 61.393229166666664,
         "children": [
           {
             "id": "f5651ea8c1e628fc",
@@ -19,6 +20,55 @@
               },
               "icon": "lucide-file",
               "title": "GEMINI"
+            }
+          }
+        ]
+      },
+      {
+        "id": "01f16ba2c1c98d59",
+        "type": "tabs",
+        "dimension": 38.60677083333333,
+        "children": [
+          {
+            "id": "97160e8bf58c88a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/shawn/Documents/obsidian-notes",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：✳ Claude Code"
             }
           }
         ]
@@ -196,8 +246,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f5651ea8c1e628fc",
+  "active": "97160e8bf58c88a4",
   "lastOpenFiles": [
+    "OrbitOS-vault/GEMINI.md",
     "OrbitOS-vault/CLAUDE.md",
     "OrbitOS-vault/AGENTS.md",
     "OrbitOS-vault/90_Plans/2026-Todo-List.md",
@@ -230,7 +281,6 @@
     "OrbitOS-vault/50_Resources/Screenshot.png",
     "OrbitOS-vault/99_System/Templates/Daily_Note.md",
     "test.md",
-    "OrbitOS-vault/99_System/Templates/Wiki_Template.md",
     "OrbitOS-vault/99_System/Bases/Projects_Archive.base",
     "OrbitOS-vault/99_System/Bases/Projects.base",
     "OrbitOS-vault/99_System/Bases/Knowledge.base",
