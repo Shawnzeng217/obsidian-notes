@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/index.md",
+                "file": "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/imgs/cover.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "cover"
             }
           }
         ]
@@ -234,8 +234,9 @@
   },
   "active": "351ebb3aa3cf90d8",
   "lastOpenFiles": [
-    "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/index.md",
     "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/imgs/cover.md",
+    "cover.png",
+    "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/index.md",
     "Pasted image 20260330230813.png",
     "AGENTS.md",
     "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/refs",
