@@ -66,7 +66,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "终端：✳ Claude Code"
+              "title": "终端：⠂ Claude Code"
             }
           }
         ]
@@ -142,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -233,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fbf945cb8deda83",
+  "active": "351ebb3aa3cf90d8",
   "lastOpenFiles": [
     "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/index.md",
     "20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/imgs/cover.md",
