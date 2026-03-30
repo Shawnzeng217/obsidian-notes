@@ -39,6 +39,52 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "c2d8a8cf5f4a777c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc2f835ffbcc3c1",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/shawn/Documents/obsidian-notes/OrbitOS-vault",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：✳ Claude Code"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -202,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e46f4c95cbc15bd7",
+  "active": "8bc2f835ffbcc3c1",
   "lastOpenFiles": [
+    "20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
     "20_Project/WechatArticles/未命名.md",
     "20_Project/WechatArticles/README.md",
     "20_Project/App-Ideas.md",
@@ -220,7 +266,6 @@
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.png.jpeg",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/BABE YODA.jpeg",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/refs",
-    "20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale.md",
