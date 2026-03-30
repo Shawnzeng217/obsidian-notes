@@ -142,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AGENTS 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -233,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fbf945cb8deda83",
+  "active": "351ebb3aa3cf90d8",
   "lastOpenFiles": [
     "AGENTS.md",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/02-flowchart-publish-workflow.md",

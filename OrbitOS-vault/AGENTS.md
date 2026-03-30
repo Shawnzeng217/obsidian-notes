@@ -28,6 +28,9 @@ Act as Knowledge Manager and Daily Planner. Capture, connect, and organize knowl
 `/parse-knowledge` - Unstructured text → vault
 `/archive` - Clean up completed items
 
+**Writing:**
+`/stop-slop` - Remove AI writing patterns from prose (filler phrases, passive voice, binary contrasts, adverbs)
+
 **Technical:**
 `obsidian-markdown`, `obsidian-bases`, `json-canvas` - Obsidian features
 `/sync` - Commit & push vault to GitHub
