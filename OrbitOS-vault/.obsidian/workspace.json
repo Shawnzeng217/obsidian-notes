@@ -81,7 +81,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "终端：✳ Claude Code"
+              "title": "终端：⠐ Claude Code"
             }
           }
         ]
@@ -249,6 +249,8 @@
   },
   "active": "c706b86090e03f85",
   "lastOpenFiles": [
+    "post-to-wechat/2026-03-30",
+    "post-to-wechat",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.jpeg",
     "20_Project/App-Ideas.md",
@@ -271,7 +273,6 @@
     "20_Project/WechatArticles/2026-03-26-hello-tommytale.md",
     "99_System/Templates/WechatArticle_Template.md",
     "20_Project/WechatArticles",
-    "60_Wechat",
     "90_Plans/2026-Todo-List.md",
     "WeChat/openclaw-47-zombies-2026-03-22.jpg",
     "WeChat/OpenClaw-47-Zombies-Analysis.md",
