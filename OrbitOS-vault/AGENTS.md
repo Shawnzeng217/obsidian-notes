@@ -30,6 +30,7 @@ Act as Knowledge Manager and Daily Planner. Capture, connect, and organize knowl
 
 **Writing:**
 `/stop-slop` - Remove AI writing patterns from prose (filler phrases, passive voice, binary contrasts, adverbs)
+`/wechat-draft` - Create a new WeChat article draft in the vault (scaffolds folder, writes content, updates index)
 
 **Technical:**
 `obsidian-markdown`, `obsidian-bases`, `json-canvas` - Obsidian features
