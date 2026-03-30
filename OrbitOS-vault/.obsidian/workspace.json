@@ -36,16 +36,58 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "996a671eadcdb3d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/shawn/Documents/obsidian-notes/OrbitOS-vault",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：zsh"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "c2d8a8cf5f4a777c",
+        "id": "5f8779b9d68db8bc",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc2f835ffbcc3c1",
+            "id": "c706b86090e03f85",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
@@ -81,7 +123,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "终端：✳ Claude Code"
+              "title": "终端：zsh"
             }
           }
         ]
@@ -247,13 +289,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bc2f835ffbcc3c1",
+  "active": "c706b86090e03f85",
   "lastOpenFiles": [
-    "20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
+    "20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.jpeg",
+    "20_Project/App-Ideas.md",
     "20_Project/WechatArticles/未命名.md",
     "20_Project/WechatArticles/README.md",
-    "20_Project/App-Ideas.md",
-    "20_Project/WechatArticles/2026-03-26-hello-tommytale/imgs/cover.jpeg",
+    "20_Project/WechatArticles/2026-03-26-hello-tommytale/index.md",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/02-flowchart-publish-workflow.md",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/01-scene-journey-begins.md",
     "20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/outline.md",
