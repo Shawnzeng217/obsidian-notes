@@ -38,6 +38,7 @@ YYYY-MM-DD-slug/
 | Folder | Title | Status | Published |
 |--------|-------|--------|-----------|
 | 2026-03-26-hello-tommytale | 你好，Tommytale | draft | — |
+| 2026-03-30-ai-fluency-introduction | AI流利度入门 \| Introduction to AI Fluency | draft | — |
 
 ## Related
 
