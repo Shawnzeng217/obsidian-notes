@@ -18,6 +18,8 @@ source: "Anthropic Academic · AI Fluency: Framework & Foundations"
 > 学会与 AI 协作，比学会使用 AI 工具更重要。
 > *Learning to collaborate with AI matters more than learning to use AI tools.*
 
+🕐 建议阅读时间：8 分钟 | *Estimated reading time: 8 minutes*
+
 ---
 
 ## 本期目录 | Contents
