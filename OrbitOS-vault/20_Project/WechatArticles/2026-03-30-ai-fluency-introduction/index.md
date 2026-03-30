@@ -2,7 +2,7 @@
 title: AI流利度入门 | Introduction to AI Fluency
 author: Tommytale
 description: 学会与AI协作，比学会使用AI工具更重要。Anthropic AI Fluency系列第一期，介绍4D核心能力框架。
-cover: imgs/cover.jpeg
+cover: imgs/cover.png
 type: content
 format: wechat-article
 status: draft
