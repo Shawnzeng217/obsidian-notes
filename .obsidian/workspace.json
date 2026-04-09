@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OrbitOS-vault/20_Project/WechatArticles/2026-03-26-hello-tommytale/illustrations/prompts/02-flowchart-publish-workflow.md",
+                "file": "OrbitOS-vault/AI工程化的本质思考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-flowchart-publish-workflow"
+              "title": "AI工程化的本质思考"
             }
           }
         ],
@@ -259,7 +259,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cfe3e718d8a2fa93",
+  "active": "06ea8023e85506eb",
   "lastOpenFiles": [
     "OrbitOS-vault/AI工程化的本质思考.md",
     "OrbitOS-vault/20_Project/WechatArticles/2026-03-30-ai-fluency-introduction/index.html.bak-20260330233845",
